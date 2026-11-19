@@ -30,9 +30,9 @@ generated live (no audio files), nine chapters, a stopwatch, streaks, ranks and 
 ## Download
 | File | What it is | Size |
 |---|---|---|
-| **[Murder Viral 1.0.0 Setup.exe](https://github.com/astaboyyye/MurderViral-Windows/releases/download/v1.0.0/Murder%20Viral%201.0.0%20Setup.exe)** | Installer (recommended): Start menu entry and an uninstaller | 3.2 MB |
-| [Murder Viral 1.0.0.msi](https://github.com/astaboyyye/MurderViral-Windows/releases/download/v1.0.0/Murder%20Viral%201.0.0.msi) | The same installer as an MSI package, for managed PCs | 3.8 MB |
-| [Murder Viral 1.0.0.exe](https://github.com/astaboyyye/MurderViral-Windows/releases/download/v1.0.0/Murder%20Viral%201.0.0.exe) | Portable: double-click to play, nothing is installed | 3.4 MB |
+| **[MurderViral-1.0.0-Setup.exe](https://github.com/astaboyyye/MurderViral-Windows/releases/download/v1.0.0/MurderViral-1.0.0-Setup.exe)** | Installer (recommended): Start menu entry and an uninstaller | 3.2 MB |
+| [MurderViral-1.0.0.msi](https://github.com/astaboyyye/MurderViral-Windows/releases/download/v1.0.0/MurderViral-1.0.0.msi) | The same installer as an MSI package, for managed PCs | 3.8 MB |
+| [MurderViral-1.0.0-portable.exe](https://github.com/astaboyyye/MurderViral-Windows/releases/download/v1.0.0/MurderViral-1.0.0-portable.exe) | Portable: double-click to play, nothing is installed | 3.4 MB |
 
 All versions are on the [Releases page](https://github.com/astaboyyye/MurderViral-Windows/releases).
 
@@ -44,9 +44,9 @@ All versions are on the [Releases page](https://github.com/astaboyyye/MurderVira
 
 | File | SHA-256 |
 |---|---|
-| Murder Viral 1.0.0 Setup.exe | `2e950e5ac884c74c2a0bc7ee4e5889e913131d71610b4723810424206e36a3d8` |
-| Murder Viral 1.0.0.msi | `52e4592ac97217a27b09912f252042885846d41edbec778554eb9f6d044f456e` |
-| Murder Viral 1.0.0.exe | `04b270925197330f416c8fd89e57ad5439eccf0e73a752eadc49ce8791f07401` |
+| MurderViral-1.0.0-Setup.exe | `2e950e5ac884c74c2a0bc7ee4e5889e913131d71610b4723810424206e36a3d8` |
+| MurderViral-1.0.0.msi | `52e4592ac97217a27b09912f252042885846d41edbec778554eb9f6d044f456e` |
+| MurderViral-1.0.0-portable.exe | `04b270925197330f416c8fd89e57ad5439eccf0e73a752eadc49ce8791f07401` |
 
 ## Other versions
 - **Android**: [MurderViral-Android](https://github.com/astaboyyye/MurderViral-Android) (APK)
